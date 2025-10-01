@@ -4,7 +4,7 @@ This project demonstrates a collaborative workflow using Git and GitHub. It comb
 
 ## How to Run the Application
 
-To run the application, you need to use the `main.py` script from your terminal. You must specify which user interface you want to launch using the `--ui` flag.
+To run the application, you can:
 
 ### 1. To Launch the Tkinter Interface
 
